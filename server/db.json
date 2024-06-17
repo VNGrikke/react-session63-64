@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "name": "Nguyễn Văn Vương",
+            "email": "Thienvu24122005@gmail.com",
+            "phone": "0367675699",
+            "password": "$2a$10$nSGkNV3kNnrFlK1toKIElew3VxxNihmnzkXYIlzFrQ4slNq52CdKO",
+            "id": 1
+        },
+        {
+            "name": "Dinh thien vu",
+            "email": "hienvu24122005@gmail.com",
+            "phone": "0367675698",
+            "password": "$2a$10$k/adg5LyvoCF3uLzuZ9YHe5N8rYDWScFFmXFiazt10L6Ln6NJtWAi",
+            "id": 2
+        }
+    ]
+}
